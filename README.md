@@ -1,2 +1,2 @@
-# university
-All my projects from Saint Petersburg State Institute of Technology (Technical University)
+#university
+Программы строят графики переходных характеристик для заданных параметров регулятора.
