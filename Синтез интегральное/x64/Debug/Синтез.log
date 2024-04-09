@@ -1,0 +1,5 @@
+﻿  Synthesis.cpp
+E:\projects\Синтез апериодическое - Copy\Synthesis.cpp(45,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\projects\Синтез апериодическое - Copy\Synthesis.cpp(69,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Synthesis.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Синтез.vcxproj -> E:\projects\Синтез апериодическое - Copy\x64\Debug\Синтез.exe

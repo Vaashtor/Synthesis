@@ -1,0 +1,10 @@
+E:\projects\Синтез\x64\Debug\Синтез.vcxproj.AssemblyReference.cache
+E:\projects\Синтез\x64\Debug\Синтез.vcxproj.SuggestedBindingRedirects.cache
+E:\projects\Синтез\x64\Debug\Синтез.exe
+E:\projects\Синтез\x64\Debug\Синтез.Synthesis.resources
+E:\projects\Синтез\x64\Debug\Синтез.vcxproj.GenerateResource.cache
+E:\projects\Синтез апериодическое\x64\Debug\Синтез.vcxproj.AssemblyReference.cache
+E:\projects\Синтез апериодическое\x64\Debug\Синтез.vcxproj.SuggestedBindingRedirects.cache
+E:\projects\Синтез апериодическое\x64\Debug\Синтез.Synthesis.resources
+E:\projects\Синтез апериодическое\x64\Debug\Синтез.vcxproj.GenerateResource.cache
+E:\projects\Синтез апериодическое\x64\Debug\Синтез.exe
