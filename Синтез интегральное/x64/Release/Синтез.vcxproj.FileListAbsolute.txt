@@ -1,0 +1,20 @@
+E:\projects\Синтез\x64\Release\Синтез.vcxproj.AssemblyReference.cache
+E:\projects\Синтез\x64\Release\Синтез.vcxproj.SuggestedBindingRedirects.cache
+E:\projects\Синтез\x64\Release\Синтез.Synthesis.resources
+E:\projects\Синтез\x64\Release\Синтез.vcxproj.GenerateResource.cache
+E:\projects\Синтез\x64\Release\Синтез.exe
+E:\projects\Синтез апериодическое\x64\Release\Синтез.vcxproj.AssemblyReference.cache
+E:\projects\Синтез апериодическое\x64\Release\Синтез.vcxproj.SuggestedBindingRedirects.cache
+E:\projects\Синтез апериодическое\x64\Release\Синтез.Synthesis.resources
+E:\projects\Синтез апериодическое\x64\Release\Синтез.vcxproj.GenerateResource.cache
+E:\projects\Синтез апериодическое\x64\Release\Синтез.exe
+E:\projects\Синтез апериодическое - Copy\x64\Release\Синтез.vcxproj.AssemblyReference.cache
+E:\projects\Синтез апериодическое - Copy\x64\Release\Синтез.vcxproj.SuggestedBindingRedirects.cache
+E:\projects\Синтез апериодическое - Copy\x64\Release\Синтез.Synthesis.resources
+E:\projects\Синтез апериодическое - Copy\x64\Release\Синтез.vcxproj.GenerateResource.cache
+E:\projects\Синтез апериодическое - Copy\x64\Release\Синтез.exe
+D:\projects\Синтез интегральное\x64\Release\Синтез.vcxproj.AssemblyReference.cache
+D:\projects\Синтез интегральное\x64\Release\Синтез.vcxproj.SuggestedBindingRedirects.cache
+D:\projects\Синтез интегральное\x64\Release\Синтез.Synthesis.resources
+D:\projects\Синтез интегральное\x64\Release\Синтез.vcxproj.GenerateResource.cache
+D:\projects\Синтез интегральное\x64\Release\Синтез.exe
