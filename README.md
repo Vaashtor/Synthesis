@@ -1,7 +1,11 @@
-#university
+#university 
+
 Программы строят графики переходных характеристик для заданных параметров регулятора.
+
 апериодическое звено: W = (K / T) * e ^ (- tau)
+
 интегральное: W = (1 / T) * e ^ (- tau)
+
 Пример работы программы с апериодическим звеном:
 ![image](https://github.com/Vaashtor/Synthesis/assets/154820523/fb63f7c1-6363-4cc4-abc2-7225ab3a4650)
 ![image](https://github.com/Vaashtor/Synthesis/assets/154820523/a29baa9e-744c-43b8-9de2-bb5b4a29ae81)
